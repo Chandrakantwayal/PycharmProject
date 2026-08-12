@@ -1,0 +1,2 @@
+# PycharmProject
+Pycharmproject all
